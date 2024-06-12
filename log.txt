@@ -1,0 +1,72 @@
+UserID: 5018848752 | Time: 2024-06-12 00:00:52.809746 | Command: /bgmi | Target: 20.198.79.130 | Port: 23907 | Time: 20
+Username: @rathore1998
+Target: 20.198.79.130
+Port: 23907
+Time: 20
+
+UserID: 5018848752 | Time: 2024-06-12 00:01:14.325237 | Command: /bgmi | Target: 20.198.79.130 | Port: 23907 | Time: 1000
+Username: @rathore1998
+Target: 20.198.79.130
+Port: 23907
+Time: 1000
+
+UserID: 5018848752 | Time: 2024-06-12 00:03:11.955317 | Command: /bgmi | Target: 20.198.79.130 | Port: 23907 | Time: 1000
+Username: @rathore1998
+Target: 20.198.79.130
+Port: 23907
+Time: 1000
+
+UserID: 5018848752 | Time: 2024-06-12 01:29:25.131497 | Command: /bgmi | Target: 20.235.90.9 | Port: 10710 | Time: 500
+Username: @rathore1998
+Target: 20.235.90.9
+Port: 10710
+Time: 500
+
+UserID: 5018848752 | Time: 2024-06-12 01:29:39.225390 | Command: /bgmi | Target: 20.235.90.9 | Port: 10710 | Time: 500
+Username: @rathore1998
+Target: 20.235.90.9
+Port: 10710
+Time: 500
+
+UserID: 5018848752 | Time: 2024-06-12 01:33:55.036349 | Command: /bgmi | Target: 4.213.64.89 | Port: 10860 | Time: 200
+Username: @rathore1998
+Target: 4.213.64.89
+Port: 10860
+Time: 200
+
+UserID: 5018848752 | Time: 2024-06-12 01:34:12.950165 | Command: /bgmi | Target: 4.213.64.89 | Port: 10860 | Time: 200
+Username: @rathore1998
+Target: 4.213.64.89
+Port: 10860
+Time: 200
+
+UserID: 5018848752 | Time: 2024-06-12 02:05:42.514399 | Command: /bgmi | Target: 20.219.88.108 | Port: 27473 | Time: 500
+Username: @rathore1998
+Target: 20.219.88.108
+Port: 27473
+Time: 500
+
+UserID: 5018848752 | Time: 2024-06-12 02:06:02.123258 | Command: /bgmi | Target: 20.219.88.108 | Port: 27473 | Time: 500
+Username: @rathore1998
+Target: 20.219.88.108
+Port: 27473
+Time: 500
+
+UserID: 5018848752 | Time: 2024-06-12 02:09:29.957445 | Command: /bgmi | Target: 52.140.3.93 | Port: 21205 | Time: 500
+Username: @rathore1998
+Target: 52.140.3.93
+Port: 21205
+Time: 500
+
+UserID: 5018848752 | Time: 2024-06-12 02:10:01.819745 | Command: /bgmi | Target: 52.140.3.93 | Port: 21205 | Time: 500
+Username: @rathore1998
+Target: 52.140.3.93
+Port: 21205
+Time: 500
+
+UserID: 5018848752 | Time: 2024-06-12 02:10:04.254872 | Command: /bgmi | Target: 52.140.3.93 | Port: 21205 | Time: 500
+Username: @rathore1998
+Target: 52.140.3.93
+Port: 21205
+Time: 500
+
